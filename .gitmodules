@@ -1,0 +1,9 @@
+[submodule "java/spring-petclinic"]
+	path = java/spring-petclinic
+	url = https://github.com/govardhandolamarch39/spring-petclinic.git
+[submodule "MusicStore"]
+	path = MusicStore
+	url = https://github.com/govardhandolamarch39/MusicStore.git
+[submodule "dotnet/MusicStore"]
+	path = dotnet/MusicStore
+	url = https://github.com/govardhandolamarch39/MusicStore.git

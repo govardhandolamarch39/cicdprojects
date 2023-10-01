@@ -7,3 +7,6 @@
 [submodule "dotnet/MusicStore"]
 	path = dotnet/MusicStore
 	url = https://github.com/govardhandolamarch39/MusicStore.git
+[submodule "java/game-of-life"]
+	path = java/game-of-life
+	url = https://github.com/wakaleo/game-of-life.git
